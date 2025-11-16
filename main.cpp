@@ -1,5 +1,5 @@
 // CSCI-40 Final Project
-// Author: [Your Name Here]
+// Author: [Sophia Navarro]
 
 /* 
  * Description:
@@ -7,6 +7,17 @@
 */
 
 #include <iostream>
+#include <string>
+using namespace std;
+
+struct Task {
+    string name;
+
+};
+
+struct Reward {
+    string pointsNeeded;
+};
 
 int main() {
     return 0;
